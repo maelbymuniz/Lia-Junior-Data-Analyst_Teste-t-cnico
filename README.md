@@ -141,7 +141,7 @@ A tabela resultante foi:
 
 
   
-  Arquivo Resposta
+  [Arquivo Resposta](https://github.com/maelbymuniz/Lia-Junior-Data-Analyst_Teste-t-cnico/blob/master/Resposta_questao1.sql)
 
 __________________________________
 
@@ -256,4 +256,4 @@ ORDER BY 3 DESC;
 A tabela final ficou assim:  
 <img width="647" height="124" alt="image" src="https://github.com/user-attachments/assets/3a70185b-85e1-4f78-a97c-440d4f6f1b5f" />
 
-Arquivo Resposta
+[Arquivo Resposta](https://github.com/maelbymuniz/Lia-Junior-Data-Analyst_Teste-t-cnico/blob/master/Resposta_questao2.sql)
